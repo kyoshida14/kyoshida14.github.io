@@ -85,10 +85,10 @@ author:
   bio              : "PhD student in Cognitive Science (she/her)"
   location         : "Brown University (Providence, RI)"
   employer         :
-  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=gYvISQ8AAAAJ&hl=en&oi=sra"
+  pubmed           :
+  googlescholar    : #"https://scholar.google.com/citations?user=gYvISQ8AAAAJ&hl=en&oi=sra"
   email            : "kei_yoshida@brown.edu"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Kei-Yoshida"
   uri              :
   bitbucket        :
   codepen          :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "http://orcid.org/0000-0003-1096-3807"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
