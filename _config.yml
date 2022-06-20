@@ -83,7 +83,7 @@ author:
   name             : "Kei Yoshida"
   avatar           : "profile.png"
   bio              : "PhD student in Cognitive Science (she/her)"
-  location         : "Brown University (Providence, RI)"
+  location         : "Brown University"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=gYvISQ8AAAAJ"
@@ -100,13 +100,13 @@ author:
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      :
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/0000-0003-1096-3807"
+  orcid            : # "http://orcid.org/0000-0003-1096-3807"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    :
   steam            :
   tumblr           :
   twitter          : "Kei_Yoshida0"
