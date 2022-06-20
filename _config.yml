@@ -13,7 +13,7 @@ name                     : &name "Kei Yoshida"
 description              : &description "PhD student at Brown University"
 url                      : https://kyoshida14.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "kyoshida14.github.io"
+repository               : "kyoshida14/kyoshida14.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -86,7 +86,7 @@ author:
   location         : "Brown University (Providence, RI)"
   employer         :
   pubmed           :
-  googlescholar    : #"https://scholar.google.com/citations?user=gYvISQ8AAAAJ&hl=en&oi=sra"
+  googlescholar    : "https://scholar.google.com/citations?user=gYvISQ8AAAAJ"
   email            : "kei_yoshida@brown.edu"
   researchgate     : "https://www.researchgate.net/profile/Kei-Yoshida"
   uri              :
