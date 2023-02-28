@@ -12,4 +12,4 @@ Welcome! I'm Kei Yoshida (pronounced /ˈkeɪ/ just like the letter; 吉田慶 in
 
 In my [research](/research/), I use computational modeling and network theory to investigate how collective motion emerges from dynamic local interactions of individual agents. I am particularly interested in how a pedestrian influences the behavior of other pedestrians and how these leader-follower interactions change over time.
 
-Before joining the VENLab, I earned my B.A. in Computer Science and Psychology at Coe College. I worked with [Benjamin Chihak](https://www.coe.edu/academics/majors-areas-study/psychology/faculty), who introduced me to the world of research in navigation and locomotion in natural and virtual environment.
+Before joining the VENLab, I earned my B.A. in Computer Science and Psychology at Coe College. I worked with [Dr. Benjamin Chihak](https://www.coe.edu/academics/majors-areas-study/psychology/faculty), who introduced me to the world of research in navigation and locomotion in natural and virtual environment.
