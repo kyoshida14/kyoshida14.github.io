@@ -12,6 +12,7 @@ redirect_from:
 <body>
     <iframe src="/files/Yoshida_CV.pdf" width="100%" height="700px" marginwidth="0">
     </iframe>
+     <i>Updated on March 8, 2023</i> 
 </body>
 
 {% for post in site.CV %}
