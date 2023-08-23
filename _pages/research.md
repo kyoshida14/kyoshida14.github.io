@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 ## Publication
-Warren, W. H., Falandays, J. B., Yoshida, K., Wirth, T. D., & Free, B. A. (2023). Human Crowds as Social Networks: Collective Dynamics of Consensus and Polarization. *Perspectives on Psychological Science, 0*(0). https://doi.org/10.1177/17456916231186406
+Warren, W. H., Falandays, J. B., Yoshida, K., Wirth, T. D., & Free, B. A. (2023). Human Crowds as Social Networks: Collective Dynamics of Consensus and Polarization. *Perspectives on Psychological Science, 0*(0). [https://doi.org/10.1177/17456916231186406](https://doi.org/10.1177/17456916231186406)
 
 
 ## Current research
