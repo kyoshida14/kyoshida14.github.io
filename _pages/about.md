@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I'm Kei Yoshida (吉田慶 in Japanese; pronounced /ˈkeɪ/, just like the letter K), and I am a 5th-year PhD candidate in the [Department of Cognitive & Psychological Sciences (CoPsy)](https://copsy.brown.edu/) at [Brown University](https://www.brown.edu/). I work with [Dr. William H. Warren](https://vivo.brown.edu/display/wwarrenj) in the [Virtual Environment Navigation Lab (VENLab)](https://sites.brown.edu/venlab/).
+Welcome! I'm Kei Yoshida (吉田慶 in Japanese; pronounced /ˈkeɪ/, just like the letter K), and I am a 6th-year PhD candidate in the [Department of Cognitive & Psychological Sciences (CoPsy)](https://copsy.brown.edu/) at [Brown University](https://www.brown.edu/). I work with [Dr. William H. Warren](https://vivo.brown.edu/display/wwarrenj) in the [Virtual Environment Navigation Lab (VENLab)](https://sites.brown.edu/venlab/).
 
 I am also pursuing a master's degree in the [Computer Science Department](https://cs.brown.edu/) through the [Open Graduate Education Program](https://graduateschool.brown.edu/phd-experience/collaborative-research/open-graduate-education).
 
