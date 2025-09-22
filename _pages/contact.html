@@ -1,0 +1,69 @@
+---
+layout: archive
+permalink: /contact/
+title: "Contact"
+author_profile: false
+---
+
+{% include base_path %}
+
+{% if page.author and site.data.authors[page.author] %}
+  {% assign author = site.data.authors[page.author] %}{% else %}{% assign author = site.author %}
+{% endif %}
+
+<!-- <div class="custom-banner">
+  <h1>Contact Information</h1>
+</div>
+
+<style>
+  .custom-banner {
+    position: relative;
+    left: 50%;
+    right: 50%;
+    margin-left: -50vw;
+    margin-right: -50vw;
+    width: 100vw;
+    height: 40vh;
+    background-image: url('/files/ContactBanner.JPG');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .custom-banner h1 {
+    color: white;
+    font-size: 2.5rem;
+    margin: 0;
+    text-align: center;
+    text-shadow: 0 2px 6px rgba(0, 0, 0, 0.5);
+  }
+
+  @media (max-width: 600px) {
+    .custom-banner h1 {
+      font-size: 1.8rem;
+    }
+  }
+</style> -->
+
+<style>
+  /* Page specific styles */
+  .page__content {
+    max-width: 900px;  /* or 100% if you want full width */
+    margin: 0 auto;
+    padding: 1rem;
+  }
+</style>
+
+<div style="box-shadow: 0 4px 12px rgba(0, 0, 0, 0.4);  padding: 2rem;">
+<p><i class="fas fa-fw fa-envelope" aria-hidden="true"></i> Email: <a href="mailto:{{ author.email }}" target="_blank">{{ author.email }}</a></p>
+<p><i class="fab fa-fw fa-github" aria-hidden="true"></i> GitHub: <a href="https://github.com/{{ author.github }}" target="_blank">https://github.com/{{ author.github }}</a></p>
+<p><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i> LinkedIn: <a href="https://www.linkedin.com/in/{{ author.linkedin }}" target="_blank">https://www.linkedin.com/in/{{ author.linkedin }}</a></p>
+<p><i class="fab fa-fw fa-twitter-square" aria-hidden="true"></i> Twitter: <a href="https://twitter.com/{{ author.twitter }}" target="_blank">https://twitter.com/{{ author.twitter }}</a></p>
+<p><i class="fas fa-fw fa-graduation-cap"></i> Google Scholar: <a href="{{ author.googlescholar }}" target="_blank">{{ author.googlescholar }}</a></p>
+<p><i class="fab fa-fw fa-researchgate" aria-hidden="true"></i> ResearchGate: <a href="{{ author.researchgate }}" target="_blank">{{ author.researchgate }}</a></p>
+<p><i class="ai ai-orcid-square ai-fw"></i> ORCID: <a href="{{ author.orcid }}" target="_blank">{{ author.orcid }}</a></p>
+</div>
