@@ -10,58 +10,38 @@ author_profile: true
 ## Publications & Presentations
 
 ### Publications
-* **Yoshida, K.**, Taylor, H., & Warren, W. H. (2025). The influence of explicit and covert leaders on human crowd motion. *EPJ Web of Conferences, 334*, 04010. https://doi.org/10.1051/epjconf/202533404010  
+* **Yoshida, K.**, Taylor, H., & Warren, W.H. (2025). The influence of explicit and covert leaders on human crowd motion. *EPJ Web of Conferences, 334*, 04010. <a href="https://doi.org/10.1051/epjconf/202533404010" target="_blank">https://doi.org/10.1051/epjconf/202533404010</a>  
  
-* **Yoshida, K.**, di Bernardo, M., & Warren, W.H. (2025). *Visual influence networks in walking crowds*. biorxiv. https://doi.org/10.1101/2025.01.29.635594  
+* **Yoshida, K.**, di Bernardo, M., & Warren, W.H. (2025). *Visual influence networks in walking crowds*. biorxiv. <a href="https://doi.org/10.1101/2025.01.29.635594" target="_blank">https://doi.org/10.1101/2025.01.29.635594</a>  
 
-* Warren, W. H., Falandays, J. B., **Yoshida, K.**, Wirth, T. D., & Free, B. A. (2024). Human crowds as social networks: Collective dynamics of consensus and polarization. *Perspectives on Psychological Science, 19*(2), 522–537. https://doi.org/10.1177/17456916231186406
+* Warren, W. H., Falandays, J.B., **Yoshida, K.**, Wirth, T.D., & Free, B.A. (2024). Human crowds as social networks: Collective dynamics of consensus and polarization. *Perspectives on Psychological Science, 19*(2), 522–537. <a href="https://doi.org/10.1177/17456916231186406" target="_blank">https://doi.org/10.1177/17456916231186406</a>
 
 ### Presentations
 I have presented my work and met great scientists at a few conferences, including:
-* Pedestrian and Evacuation Dynamics ([2023](https://corbetta.phys.tue.nl/publ/ped2023-program.pdf), [2025](https://www.ped25.cz))
-* Traffic and Granular Flow ([2024](https://tgf2024.sciencesconf.org))
-* Annual Meetings of Vision Science Society ([2022](https://doi.org/10.1167/jov.22.14.3628), [2023](https://doi.org/10.1167/jov.23.9.5175), [2024](https://doi.org/10.1167/jov.24.10.1325))
-* Annual Meetings of the Psychonomic Society ([2019](https://www.psychonomic.org/page/2019annualmeeting), [2020](https://www.psychonomic.org/page/2020annualmeeting))
+* Pedestrian and Evacuation Dynamics ([<a href="https://corbetta.phys.tue.nl/publ/ped2023-program.pdf" target="_blank">2023</a>], [<a href="https://www.ped25.cz" target="_blank">2025</a>])
+* Traffic and Granular Flow ([<a href="https://tgf2024.sciencesconf.org" target="_blank">2024</a>])
+* Annual Meetings of Vision Science Society ([<a href="https://doi.org/10.1167/jov.22.14.3628" target="_blank">2022</a>], [<a href="https://doi.org/10.1167/jov.23.9.5175" target="_blank">2023</a>], [<a href="https://doi.org/10.1167/jov.24.10.1325" target="_blank">2024</a>])
+* Annual Meetings of the Psychonomic Society ([<a href="https://www.psychonomic.org/page/2019annualmeeting" target="_blank">2019</a>], [<a href="https://www.psychonomic.org/page/2020annualmeeting" target="_blank">2020</a>])
 
 <details>
   <summary><em>Click here to see a selection of my presentations</em></summary>
   <ul>
     <li><strong>Yoshida, K.</strong>, Feldmann, S., &amp; Warren, W.H. (2025, September 11). <em>Simulating and Quantifying the Influence of Covert and Explicit Leaders on Human Crowd Motion</em> [Conference session]. Pedestrian and Evacuation Dynamics 2025, Prague, Czech.</li>
     <li><strong>Yoshida, K.</strong>, Taylor, H., &amp; Warren, W.H. (2024, December 4). <em>The Influence of Explicit and Covert Leaders on Human Crowd Motion</em> [Conference session]. Traffic and Granular Flow 2024, Lyon, France.</li>
-    <li><strong>Yoshida, K.</strong>, Taylor, H., &amp; Warren, W. H. (2024). Can covert and explicit “leaders” steer and split real human crowds? <em>Journal of Vision, 24</em>(10), 1325–1325. https://doi.org/10.1167/jov.24.10.1325 (Poster presented for the Annual Meeting of the Vision Science Society, 2024, in St. Pete Beach, FL, USA).</li>
+    <li><strong>Yoshida, K.</strong>, Taylor, H., &amp; Warren, W. H. (2024). Can covert and explicit “leaders” steer and split real human crowds? <em>Journal of Vision, 24</em>(10), 1325–1325. <a href="https://doi.org/10.1167/jov.24.10.1325" target="_blank">https://doi.org/10.1167/jov.24.10.1325</a> (Poster presented for the Annual Meeting of the Vision Science Society, 2024, in St. Pete Beach, FL, USA).</li>
     <li><strong>Yoshida, K.</strong>, &amp; Warren, W. H. (2023, June 28). <em>Structural analysis and topological manipulation of visual influence networks in walking crowds</em> [Conference session]. Pedestrian and Evacuation Dynamics 2023, Eindhoven, Netherlands.</li>
     <li><strong>Yoshida, K.</strong>, &amp; Chihak, B. (2020, November 21). <em>The transfer of perceptual-motor recalibration between virtual and naturalistic environments</em> [Poster presentation]. 61st Annual Meeting of the Psychonomic Society, held virtually.</li>
     <li>Chihak, B., <strong>Yoshida, K.</strong>, &amp; Bordwell, J. (2019, November 15). <em>Simple models of movement coordination account for limited portions of pedestrian road-crossing behavior in virtual environments</em> [Poster presentation]. 60th Annual Meeting of the Psychonomic Society, Montreal, QC, Canada.</li>
-    <li><strong>Yoshida, K.</strong>, Shrestha, A., &amp; Chihak, B. (2018, November 10). <em>How roadway design affects cyclist-motorist interactions</em> [Poster presentation]. 2018 <a href="https://www.coe.edu/academics/majors-areas-study/psychology/tri-state-undergraduate-research-psychology-conference">Tri-State Undergraduate Psychology Conference</a>, Loras College, Dubuque, IA, USA.</li>
+    <li><strong>Yoshida, K.</strong>, Shrestha, A., &amp; Chihak, B. (2018, November 10). <em>How roadway design affects cyclist-motorist interactions</em> [Poster presentation]. 2018 <a href="https://www.coe.edu/academics/majors-areas-study/psychology/tri-state-undergraduate-research-psychology-conference" target="_blank">Tri-State Undergraduate Psychology Conference</a>, Loras College, Dubuque, IA, USA.</li>
   </ul>
 </details>
 
-## Ongoing Research
+## My PhD Research
 
-My PhD research mainly focuses on two questions:
+My PhD research mainly focuses on these research questions:
 1. How do individual pedestrians influence each other and the collective motion of a crowd?
 2. How does their influence propagate through the crowd?
 
-To answer these questions, I've conducted an experiment using pre-trained confederates. I am currently focusing on analyzing this data using networks and simulations.
-
-### Experiment with Covert and Explicit Confederates
-
-In this experiment, we strategically placed **covert** or **explicit** leaders (confederates) in a group of walking pedestrians, and instructed them to change walking direction (heading) on a signal. Participants were either told to follow the crowd (covert) or follow the confederates with flags (explicit), and we tested the confederate influence on collective motion.
-
-![Covert confederates steering a crowd](/images/confederate_steer.png)
-
-I presented this work in 2024 at [Traffic and Granular Flow](https://tgf2024.sciencesconf.org), and the conference proceedings have been published. Read more about this experiment and the initial findings here: https://doi.org/10.1051/epjconf/202533404010.
-
-### Simulating the Participant Trajectories in the Experiment
-
-I am currently working on simulating the participant trajectories with existing pedestrian models, treating
-the covert leaders’ motion as input, and test model agreement with the experimental data.
-
-*More results coming soon!*
-
-I presented this work in 2025 at [Pedestrian and Evacuation Dynamics](https://www.ped25.cz).
-
-## Previous Research
 
 ### Visual influence networks in walking crowds
 
@@ -69,7 +49,12 @@ We introduced an approach that estimates local influences in observational data 
 
 ![Dynamics of visual influence networks](/images/networks.png)
 
-Read more about visual influence networks in this preprint: https://doi.org/10.1101/2025.01.29.635594.
+We also developed measures to quantify local and global influence strengths of individual pedestrians. We quantitatively showed the front of crowds as the most influential position.
+
+![Heat Map of Local and Global Influence Strengths in Space](/images/influence_heatmap.png)
+
+
+Read more about visual influence networks in this preprint: <a href="https://doi.org/10.1101/2025.01.29.635594" target="_blank">https://doi.org/10.1101/2025.01.29.635594</a>.
 
 <details>
   <summary><em>Click here to see the abstract</em></summary>
@@ -78,10 +63,30 @@ Read more about visual influence networks in this preprint: https://doi.org/10.1
   </div>
 </details>
 
+
+### Experiment with Covert and Explicit Confederates
+
+In this experiment, we strategically placed **covert** or **explicit** leaders (confederates) at previously shown influential positions in a group of walking pedestrians. We instructed them to change walking direction (heading) on a signal. Participants were either told to follow the crowd (covert) or follow the confederates with flags (explicit), and we tested the confederate influence on collective motion.
+
+![Covert confederates steering a crowd](/images/confederate_steer.png)
+
+I presented this work in 2024 at <a href="https://tgf2024.sciencesconf.org" target="_blank">Traffic and Granular Flow</a>, and the conference proceedings have been published. Read more about this experiment and the initial findings here: <a href="https://doi.org/10.1051/epjconf/202533404010" target="_blank">https://doi.org/10.1051/epjconf/202533404010</a>.
+
+### Simulating the Participant Trajectories in the Experiment
+
+I am currently working on simulating the participant trajectories with existing pedestrian models, treating
+the covert leaders’ motion as input, and test model agreement with the experimental data.
+
+*More results coming soon!*
+
+I presented this work in 2025 at <a href="https://www.ped25.cz" target="_blank">Pedestrian and Evacuation Dynamics</a>.
+
+## Previous Research
+
 ### Perceptual-motor recalibration in naturalistic and virtual environments
 <!-- **TODO: summary** -->
 
-I wrote about this work in my undergraduate [honors thesis](https://coecollege.on.worldcat.org/oclc/1258120465).
+I wrote about this work in my undergraduate <a href="https://coecollege.on.worldcat.org/oclc/1258120465" target="_blank">honors thesis</a>.
 We also presented a poster on this work in 2020 at the 61st Annual Meeting of the Psychonomic Society (held virtually).
 <!-- See the published abstract [here](https://cdn.ymaws.com/www.psychonomic.org/resource/resmgr/annual_meeting/2020_meeting/2020_abstract_book/ps20_abstracts_11_19_2020.pdf#page=247) (poster 3015). -->
 
