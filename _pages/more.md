@@ -9,9 +9,9 @@ redirect_from:
 
 ## Start of my research journey
 
-I didn't always know that pedestrian and crowd dynamics was my passion. My first ever research project as a sophomore was on "*relationship between psychological capital, grit, and academic outcomes*" (2017-2018), with [Dr. Sara Farrell](https://www.coe.edu/academics/majors-areas-study/psychology/faculty#:~:text=Sara%20Farrell) as an advisor. While it is very different from my research interests, it taught me the fun in research process.
+Before finding my passion in pedestrian and crowd research, I started my academic journey exploring different areas of psychology and human behavior. My first ever research project as a sophomore was on "*relationship between psychological capital, grit, and academic outcomes*" (2017-2018), with [Dr. Sara Farrell](https://www.coe.edu/academics/majors-areas-study/psychology/faculty#:~:text=Sara%20Farrell) as an advisor. 
 
-**TODO: summary**
+This work was presented as a poster on this work in 2017 at the Tri-State Undergraduate Psychology Conference (Coe College) and in 2018 at the Student Research Symposium (Coe College).
 
 <details>
   <summary><em>Click here to see the abstract</em></summary>
