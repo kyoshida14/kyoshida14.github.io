@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I'm Kei Yoshida (吉田 慶 in Japanese; pronounced /ˈkeɪ/, just like the letter K), and I am a PhD candidate in cognitive science at <a href="https://www.brown.edu/" target="_blank" rel="noopener">Brown University</a> (Providence, RI, USA). I work with <a href="https://vivo.brown.edu/display/wwarrenj" target="_blank" rel="noopener">Dr. William H. Warren</a> in the Virtual Environment Navigation Lab (<a href="https://sites.brown.edu/venlab/" target="_blank" rel="noopener">VENLab</a>), Department of Cognitive and Psychological Sciences (<a href="https://copsy.brown.edu/" target="_blank" rel="noopener">CoPsy</a>).
+Hello! I'm Kei Yoshida (吉田 慶 in Japanese; pronounced /ˈkeɪ/, just like the letter K), and I am a PhD candidate in cognitive science at <a href="https://www.brown.edu/" target="_blank" rel="noopener">Brown University</a> (Providence, RI, USA), expected to graduate in May 2026. I work with <a href="https://vivo.brown.edu/display/wwarrenj" target="_blank" rel="noopener">Dr. William H. Warren</a> in the Virtual Environment Navigation Lab (<a href="https://sites.brown.edu/venlab/" target="_blank" rel="noopener">VENLab</a>), Department of Cognitive and Psychological Sciences (<a href="https://copsy.brown.edu/" target="_blank" rel="noopener">CoPsy</a>).
 
 I am also pursuing a concurrent master's degree in computer science (<a href="https://cs.brown.edu/" target="_blank" rel="noopener">Brown CS</a>) through Brown's <a href="https://graduateschool.brown.edu/phd-experience/collaborative-research/open-graduate-education" target="_blank" rel="noopener">Open Graduate Education program</a>.
 
