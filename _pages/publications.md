@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## Publications & Presentations
-
+<!-- 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
@@ -16,7 +16,7 @@ author_profile: true
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
-
+ -->
 
 ### Publications
 * **Yoshida, K.**, Taylor, H., & Warren, W.H. (2025). The influence of explicit and covert leaders on human crowd motion. *EPJ Web of Conferences, 334*, 04010. <a href="https://doi.org/10.1051/epjconf/202533404010" target="_blank">https://doi.org/10.1051/epjconf/202533404010</a>  
