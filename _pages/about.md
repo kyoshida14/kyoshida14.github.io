@@ -16,6 +16,6 @@ My research interests lie in the ways individual pedestrians in motion perceive 
 
 Through my dissertation work and prior research, I have developed a strong interest in locomotion and navigation of humans and other animals, as well as safety research involving pedestrian and vehicular contexts. Beyond these topics, I am interested in various methodological approaches for analyzing complex systems, including network analysis, information theory, and agent-based models.
 
-Please check out <a href="/research/" target="_blank" rel="noopener">my research work here</a>.
+Please check out <a href="/research/">my research work here</a>.
 
 Before starting my PhD at Brown, I earned my B.A. in psychology and computer science at <a href="https://www.coe.edu" target="_blank" rel="noopener">Coe College</a> (Cedar Rapids, IA, USA). I worked with <a href="https://www.coe.edu/academics/majors-areas-study/psychology/faculty#:~:text=Ben%20Chihak" target="_blank" rel="noopener">Dr. Benjamin Chihak</a>, who introduced me to the world of locomotion and transportation safety research in natural and virtual environments.
