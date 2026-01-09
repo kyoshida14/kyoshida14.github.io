@@ -91,6 +91,8 @@ We also presented a poster on this work in 2020 at the 61st Annual Meeting of th
 ### Simple models of movement coordination account for limited portions of pedestrian road-crossing behavior in virtual environments
 <!-- **TODO: summary** -->
 
+![road-crossing behavior VR study](/images/road_crossing.png){: width="80%" }
+
 We presented a poster on this work in 2019 at the 60th Annual Meeting of the Psychonomic Society (Montreal, QC, Canada).
 <!-- See the published abstract [here](https://cdn.ymaws.com/www.psychonomic.org/resource/resmgr/annual_meeting/2019_meeting/ps2019annualmeeting-FINAL.pdf#page=206) (poster 2194). -->
 
@@ -104,6 +106,8 @@ We presented a poster on this work in 2019 at the 60th Annual Meeting of the Psy
 
 ### How roadway design affects cyclist-motorist interactions
 <!-- **TODO: summary** -->
+
+![Collected data](/images/cyclist_data.png){: width="80%" }
 
 We presented a poster on this work in 2018 at the Tri-State Undergraduate Psychology Conference (Loras College, Dubuque, IA, USA).
 
