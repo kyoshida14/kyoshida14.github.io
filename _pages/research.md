@@ -7,6 +7,7 @@ author_profile: true
 
 
 > 🚀 I’m happy to share a new publication!🚀
+>
 > **Yoshida, K.**, Di Bernardo, M., & Warren, W.H. (2026). Visual influence networks in walking crowds. *Journal of the Royal Society Interface, 23*(236), 20250846. <a href="https://doi.org/10.1098/rsif.2025.0846" target="_blank">https://doi.org/10.1098/rsif.2025.0846</a>
 
 
