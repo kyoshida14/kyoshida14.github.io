@@ -19,18 +19,19 @@ author_profile: true
  -->
 
 ### Publications
+
+* 🆕 **Yoshida, K.**, Di Bernardo, M., & Warren, W.H. (2026). Visual influence networks in walking crowds. *Journal of the Royal Society Interface, 23*(236), 20250846. <a href="https://doi.org/10.1098/rsif.2025.0846" target="_blank">https://doi.org/10.1098/rsif.2025.0846</a>
+
 * **Yoshida, K.**, Taylor, H., & Warren, W.H. (2025). The influence of explicit and covert leaders on human crowd motion. *EPJ Web of Conferences, 334*, 04010. <a href="https://doi.org/10.1051/epjconf/202533404010" target="_blank">https://doi.org/10.1051/epjconf/202533404010</a>  
  
-* **Yoshida, K.**, di Bernardo, M., & Warren, W.H. (2025). *Visual influence networks in walking crowds*. biorxiv. <a href="https://doi.org/10.1101/2025.01.29.635594" target="_blank">https://doi.org/10.1101/2025.01.29.635594</a>  
-
 * Warren, W. H., Falandays, J.B., **Yoshida, K.**, Wirth, T.D., & Free, B.A. (2024). Human crowds as social networks: Collective dynamics of consensus and polarization. *Perspectives on Psychological Science, 19*(2), 522–537. <a href="https://doi.org/10.1177/17456916231186406" target="_blank">https://doi.org/10.1177/17456916231186406</a>
 
 ### Presentations
 I have presented my work and met great scientists at a few conferences, including:
-* Pedestrian and Evacuation Dynamics ([<a href="https://corbetta.phys.tue.nl/publ/ped2023-program.pdf" target="_blank">2023</a>], [<a href="https://www.ped25.cz" target="_blank">2025</a>])
-* Traffic and Granular Flow ([<a href="https://tgf2024.sciencesconf.org" target="_blank">2024</a>])
-* Annual Meetings of Vision Science Society ([<a href="https://doi.org/10.1167/jov.22.14.3628" target="_blank">2022</a>], [<a href="https://doi.org/10.1167/jov.23.9.5175" target="_blank">2023</a>], [<a href="https://doi.org/10.1167/jov.24.10.1325" target="_blank">2024</a>])
-* Annual Meetings of the Psychonomic Society ([<a href="https://www.psychonomic.org/page/2019annualmeeting" target="_blank">2019</a>], [<a href="https://www.psychonomic.org/page/2020annualmeeting" target="_blank">2020</a>])
+* Pedestrian and Evacuation Dynamics (<a href="https://corbetta.phys.tue.nl/publ/ped2023-program.pdf" target="_blank">2023</a>, <a href="https://www.ped25.cz" target="_blank">2025</a>)
+* Traffic and Granular Flow (<a href="https://tgf2024.sciencesconf.org" target="_blank">2024</a>)
+* Annual Meetings of Vision Science Society (<a href="https://doi.org/10.1167/jov.22.14.3628" target="_blank">2022</a>, <a href="https://doi.org/10.1167/jov.23.9.5175" target="_blank">2023</a>, <a href="https://doi.org/10.1167/jov.24.10.1325" target="_blank">2024</a>)
+* Annual Meetings of the Psychonomic Society (<a href="https://www.psychonomic.org/page/2019annualmeeting" target="_blank">2019</a>, <a href="https://www.psychonomic.org/page/2020annualmeeting" target="_blank">2020</a>)
 
 <details>
   <summary><em>Click here to see a selection of my presentations</em></summary>

@@ -5,6 +5,11 @@ title: "Research"
 author_profile: true
 ---
 
+
+> 🚀 I’m happy to share a new publication!🚀
+> **Yoshida, K.**, Di Bernardo, M., & Warren, W.H. (2026). Visual influence networks in walking crowds. *Journal of the Royal Society Interface, 23*(236), 20250846. <a href="https://doi.org/10.1098/rsif.2025.0846" target="_blank">https://doi.org/10.1098/rsif.2025.0846</a>
+
+
 ## PhD Research (Brown University)
 
 My PhD research mainly focuses on these research questions:
@@ -25,13 +30,13 @@ We also developed measures to quantify local and global influence strengths of i
 ![Heat Map of Local and Global Influence Strengths in Space](/images/influence_heatmap.png){: width="80%" }
 
 
-Read more about visual influence networks in this preprint: <a href="https://doi.org/10.1101/2025.01.29.635594" target="_blank">https://doi.org/10.1101/2025.01.29.635594</a>.
+Read more about visual influence networks in our recent publication: <a href="https://doi.org/10.1098/rsif.2025.0846" target="_blank">https://doi.org/10.1098/rsif.2025.0846</a>.
 
 <details>
   <summary><em>Click here to see the abstract</em></summary>
   <div style="margin-left: 1em;">
   <br>
-    Collective motion in human crowds has been understood as a self-organizing phenomenon that is generated from local visual interactions between neighboring pedestrians. To analyze these interactions, we introduce an approach that estimates local influences in observational data on moving human crowds and represents them as spatially-embedded dynamic networks (visual influence networks). We analyzed data from a human “swarm” experiment (N = 10, 16, 20) in which participants were instructed to walk about the tracking area while staying together as a group. We reconstructed the network every 0.5 seconds using Time-Dependent Delayed Correlation (TDDC). Using novel network measures of local and global leadership (direct influence and branching influence), we find that both measures strongly depend on an individual’s spatial position within the group, yielding similar but distinctive leadership gradients from the front to the back. There was also a strong linear relationship between individual influence and front-back position in the crowd. The results reveal that influence is concentrated in specific positions in a crowd, a fact that could be exploited by individuals seeking to lead collective crowd motion.
+    Collective motion in animal groups emerges from local visual interactions, but the network structure underlying human crowd dynamics remains unexplored. Here, we develop a method to reconstruct dynamic visual influence networks from motion-capture data on walking human crowds, using the time-dependent delayed directional correlation with visibility constraints, specifically visual field size and visual occlusion. We introduce two network measures, direct influence (local leadership) and branching influence (global leadership), that reveal distinct spatial gradients. Front-positioned individuals exert greater global influence than rear-positioned ones, and such spatial position explains a substantial proportion of leadership variance in the group. The results show why a small number of individuals can influence the motion of large crowds. These findings establish quantitative principles for crowd networks that parallel leadership hierarchies in animal flocks, while providing evidence-based foundations for human crowd management strategies.
   </div>
 </details>
 
